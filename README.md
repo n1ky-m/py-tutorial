@@ -4,3 +4,4 @@
 2. Save the file
 3. git add .
 4. git commit -m "message here"
+5. git push
