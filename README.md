@@ -5,6 +5,7 @@
 3. git add .
 4. git commit -m "message here"
 5. git push
+6. git commit --date="2 day ago" -m "feat: pushing changes for past"
 
 
 ## Creating a Virtual Python Environment
@@ -14,7 +15,6 @@
 2. Activate the virtual environment using the command `conda activate py_tut`
 
 3. Install the following packages using these commands:
-"This is just for testing!!!"
 
 pip install notebook
 
