@@ -19,6 +19,6 @@
 pip install notebook
 
 pip install ipykernel
-python -m ipykernel install --user --name=myenv --display-name="ml_a3"
+python -m ipykernel install --user --name=myenv --display-name="py_tut"
 
-4. Open the notebook using Jupyter Notebook and choose the kernel ml_a3
+4. Open the notebook using Jupyter Notebook and choose the kernel py_tut
