@@ -13,7 +13,7 @@
 
 2. Activate the virtual environment using the command `conda activate py_tut`
 
-3. Install the following packages using these commands
+3. Install the following packages using these commands:
 
 pip install notebook
 
